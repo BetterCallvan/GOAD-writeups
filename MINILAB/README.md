@@ -10,7 +10,7 @@ A complete attack chain against a GOAD (Game Of Active Directory) MINILAB enviro
 |---|---|
 | 🇬🇧 English | [WRITEUP.en.md](./WRITEUP.en.md) |
 | 🇺🇦 Українська | [WRITEUP.ua.md](./WRITEUP.ua.md) |
-| 🇷🇺 Русский | [WRITEUP.ru.md](./WRITEUP.ru.md) |
+|  русский | [WRITEUP.ru.md](./WRITEUP.ru.md) |
 
 ## Quick Summary
 
