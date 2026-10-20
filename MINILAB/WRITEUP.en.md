@@ -1,6 +1,6 @@
 # GOAD MINILAB — Active Directory Penetration Test Writeup
 
-*[🇺🇦 Українська](./WRITEUP.ua.md) · [🇷🇺 Русский](./WRITEUP.ru.md)*
+*[🇺🇦 Українська](./WRITEUP.ua.md) · [русский](./WRITEUP.ru.md)*
 
 ## Overview
 
