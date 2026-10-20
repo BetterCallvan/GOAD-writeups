@@ -1,6 +1,6 @@
 # GOAD MINILAB — Writeup пентесту Active Directory
 
-*[🇬🇧 English](./WRITEUP.en.md) · [🇷🇺 Русский](./WRITEUP.ru.md)*
+*[🇬🇧 English](./WRITEUP.en.md) · [ русский](./WRITEUP.ru.md)*
 
 ## Огляд
 
